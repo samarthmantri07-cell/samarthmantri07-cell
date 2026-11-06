@@ -157,26 +157,6 @@ An intelligent workforce analytics platform using machine learning to generate e
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samarthmantri07-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthmantri07-cell&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=samarthmantri07-cell&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=samarthmantri07-cell&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Journey
 
 <div align="center">
