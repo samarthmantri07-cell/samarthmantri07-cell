@@ -12,6 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Autonomous+Industrial+Vision+%26+YOLOv8+Architect;FastAPI+%E2%80%A2+Docker+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+Pipelines;Predictive+Workforce+Analytics+%26+Deep+Learning+Models;B.Tech+Computer+Science+%40+VPKBIET+Baramati" alt="Typing Matrix" />
 </a>
 
+
+
 <br/>
 
 <!-- ========================================== -->
