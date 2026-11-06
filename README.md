@@ -27,52 +27,27 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-```python
-class SamarthMantri:
+<div align="center">
 
-    def __init__(self):
-        self.name = "Samarth Mantri"
-        self.role = "AI/ML & Full Stack Developer"
-        self.education = "B.Tech Computer Science (2027)"
-        self.location = "Pune, India"
+### Hi, I'm Samarth Mantri! 👋
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Generative AI",
-            "Full Stack Development"
-        ]
+**AI/ML Engineer | Computer Vision | Full Stack Developer**
 
-        self.currently_working_on = [
-            "Industrial AI Automation",
-            "Machine Learning Systems",
-            "Generative AI Applications"
-        ]
+Building intelligent systems that solve real-world problems.
 
-        self.learning = [
-            "LangChain",
-            "Hugging Face",
-            "LLM Applications",
-            "Advanced AI Workflows"
-        ]
-
-    def say_hello(self):
-        print("Building intelligent systems for real-world problems!")
-
-me = SamarthMantri()
-me.say_hello()
-```
+</div>
 
 - 🎓 Final-year B.Tech Computer Science student at VPKBIET, Baramati.
-- 🧠 AI/ML Intern at **Anvistar ITS Pvt. Ltd.**
-- 🏭 Developing **SmartLogix AI**, an industrial computer vision inspection platform.
-- 📊 Working with structured retail datasets for the **Decathlon Sports Retail Intelligence Project**.
-- 🌐 Built and deployed **Rudra Globe**, a corporate trade and logistics website.
-- 🤖 Exploring Generative AI, LangChain and Hugging Face.
-- 🚀 Interested in building scalable AI products and intelligent automation systems.
+- 🧠 Currently working as an **AI/ML Intern at Anvistar ITS Pvt. Ltd.**
+- 🏭 Building **SmartLogix AI**, an AI-powered industrial inspection platform.
+- 📊 Working on retail data processing and validation for the **Decathlon Sports Retail Intelligence Project**.
+- 🌐 Developed and deployed **Rudra Globe**, a corporate trade and logistics website.
+- 🤖 Exploring Generative AI, LangChain, Hugging Face and LLM applications.
+- 💡 Interested in Computer Vision, Machine Learning and AI-powered automation.
+- 🚀 My goal is to build scalable, production-ready AI solutions.
 
 ---
 
